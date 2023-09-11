@@ -1,6 +1,6 @@
 <?php 
 $prefix  = 'Thank you';
-$name    = 'Ivy';
+$name    = 'Anjitha';
 $message = $prefix . ', ' . $name;
 ?>
 <!DOCTYPE html>
